@@ -1,1 +1,1 @@
-# cssMemSlider1213аыва
+# cssMemSlider
